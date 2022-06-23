@@ -1,6 +1,6 @@
-# myPythonDockerRepo
+# PythonDockerPipeline
 This a python based app and containerized.
-you can clone - https://github.com/akannan1087/myPythonDockerRepo/.
+you can clone - https://github.com/sugandhkumar01/PythonDockerCICD.git.
 This repo also have Jenkinsfile for automating the following:
 
 - Automating Docker image creation
